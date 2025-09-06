@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nacer
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking for help learning Pyhton
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking for help learning 
 - 📫 How to reach me ...
 - 😄 Pronouns: Nacer
 - ⚡ Fun fact: ...
